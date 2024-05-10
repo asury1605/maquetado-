@@ -1,0 +1,93 @@
+.nav {
+    width: 1000px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+.header{
+    width: 1000px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+}
+.content {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column; 
+}
+.main{
+    width: 1000px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+.footer{
+    width: 1000px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #d50980;
+    display: flex;
+}
+.box{
+    width: 200px;
+    height: 100px;
+    background: #2ab825;
+}
+.box2{
+    width: 200px;
+    height: 100px;
+    background: #c80bf8;
+}
+.box3{
+    width: 200px;
+    height: 100px;
+    background: #ef349b;
+}
+.box4{
+    width: 200px;
+    height: 100px;
+    background: #d3bb37;
+}
+.box5{
+    width: 200px;
+    height: 100px;
+    background: #14af88;
+}
+
+.Banner{
+    width: 800px;
+    height: 300px;
+    background: #e66904;
+}
+.logo{
+    width: 200px;
+    height: 100px;
+    background: #da1899;
+}
+.login{
+    width: 200px;
+    height: 100px;
+    background: #220279;
+}
+.form{
+    width: 200px;
+    height: 100px;
+    background: #ad7d24;
+}
+.aside{
+    width: 200px;
+    height: 500px;
+    background: #19d458;
+}
+.article{
+    width: 600px;
+    height: 500px;
+    background: #92178c;
+}
+
+
